@@ -13,8 +13,8 @@
 class Dexterm < Formula
   desc "Terminal Solana memecoin screener with a local Claude analyst"
   homepage "https://dexterm.xyz"
-  url "https://github.com/dexterm-xyz/dexterm/releases/download/v0.1.5/dexterm-0.1.5-src.tar.gz"
-  sha256 "53e48ca0b5d91b9dc7cbf6c1bbcb5b32257a1e2e848b650736da3c306ca590c4"
+  url "https://github.com/dexterm-xyz/dexterm/releases/download/v0.1.6/dexterm-0.1.6-src.tar.gz"
+  sha256 "3449c7aaddc04fc5fdd99955dcc93c1a1da601cf67f0201f9e823943fabc580e"
   license "AGPL-3.0-only"
   head "https://github.com/dexterm-xyz/dexterm.git", branch: "main"
 
